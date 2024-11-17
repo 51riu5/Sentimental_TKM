@@ -5,8 +5,8 @@
 ## Basic Details
 ### Team Name: Avial
 
-###Hosted Link is given below:
-https://github.com/user-attachments/assets/7c3c9d20-a426-4742-a3b1-c4c2a7e2e43a
+### Video Link is given below:
+(https://drive.google.com/drive/folders/1VMQ5ADpL-QWo-CVlr7MJ_eUyKyEl-eqw?usp=sharing)
 
 ### Team Members
 - Team Lead: Rishit Menon - TKM College of Engineering, Kollam
